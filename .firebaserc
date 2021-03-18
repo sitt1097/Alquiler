@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "login-ng-35911": {
+      "hosting": {
+        "alquiler": [
+          "login-ng-35911"
+        ]
+      }
+    }
+  }
+}
